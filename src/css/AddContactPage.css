@@ -1,0 +1,23 @@
+.add-contact-page {
+  background: white;
+  padding: 30px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.page-title {
+  margin-bottom: 10px;
+}
+
+.app-link {
+  color: #007bff;
+  text-decoration: underline;
+  font-size: 18px;
+}
+
+.add-contact-page h3 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
